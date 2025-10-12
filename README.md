@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey, I'm Fredo 👋  
@@ -18,12 +17,12 @@ In love with staring at code — can stare for days.
 <br/>
 
 <a href="https://github.com/FredoBangin?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/FredoBangin?label=Follow&style=for-the-badge">
+  <img alt="Followers" src="https://img.shields.io/github/followers/FredoBangin?label=Follow&style=for-the-badge&cacheSeconds=300&v=1">
 </a>
 <a href="https://github.com/FredoBangin?tab=repositories&sort=stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/FredoBangin?affiliations=OWNER&style=for-the-badge">
+  <img alt="Stars" src="https://img.shields.io/github/stars/FredoBangin?affiliations=OWNER&style=for-the-badge&cacheSeconds=300&v=1">
 </a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FredoBangin&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FredoBangin&label=Profile%20views&color=0e75b6&style=for-the-badge&v=1"/>
 
 </div>
 
@@ -31,24 +30,23 @@ In love with staring at code — can stare for days.
 
 ## GitHub Stats
 
-
 <p align="center">
   <img
     alt="GitHub Stats"
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=FredoBangin&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=FredoBangin&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800&v=1"
   />
   <img
     alt="GitHub Streak"
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=transparent&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=transparent&hide_border=true&v=1"
   />
 </p>
 
 <p align="center">
   <img
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredoBangin&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredoBangin&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800&v=1"
   />
 </p>
 
