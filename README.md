@@ -1,6 +1,4 @@
-Here’s a polished profile README with badges. Want me to push it to your profile repo (FredoBangin/FredoBangin)?
 
-markdown name=README.md
 <div align="center">
 
 # Hey, I'm Fredo 👋  
