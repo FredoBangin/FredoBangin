@@ -34,19 +34,19 @@ In love with staring at code — can stare for days.
   <img
     alt="GitHub Stats"
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=FredoBangin&show_icons=true&hide_border=true&theme=purple&cache_seconds=1800&v=1"
+    src="https://github-readme-stats.vercel.app/api?username=FredoBangin&show_icons=true&hide_border=true&theme=chartreuse-dark&cache_seconds=1800&v=1"
   />
   <img
     alt="GitHub Streak"
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=purple&hide_border=true&v=1"
+    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=dark&hide_border=true&fire=6A0DAD&ring=6A0DAD&currStreakLabel=6A0DAD&v=1"
   />
 </p>
 
 <p align="center">
   <img
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredoBangin&layout=compact&hide_border=true&theme=purple&cache_seconds=1800&v=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredoBangin&layout=compact&hide_border=true&theme=chartreuse-dark&cache_seconds=1800&v=1"
   />
 </p>
 
