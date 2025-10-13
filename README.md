@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yo, I'm Fredo  
-**Software developer • Student**  
+**Software engineering • Student**  
 In love with staring at code — can stare for days.
 
 <a href="https://instagram.com/fredoswrldd">
