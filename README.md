@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Fredo 👋  
+# Yo, I'm Fredo  
 **Software developer • Student**  
 In love with staring at code — can stare for days.
 
