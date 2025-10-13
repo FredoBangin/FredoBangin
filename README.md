@@ -11,7 +11,7 @@ In love with staring at code — can stare for days.
   <img alt="Link in bio" src="https://img.shields.io/badge/-fakecrime.bio%2Frevxnge-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="mailto:revlmao1234@protonmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-revxngedev%40gmail.com-1d9bf0?style=for-the-badge&logo=gmail&logoColor=white">
+  <img alt="Email" src="https://img.shields.io/badge/Email-revlmao1234%40protonmail.com-1d9bf0?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br/>
