@@ -39,13 +39,11 @@ In love with staring at code — can stare for days.
   <img
     alt="GitHub Streak"
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=dark&hide_border=true&fire=6A0DAD&ring=6A0DAD&currStreakLabel=6A0DAD&v=1"
+    src="https://github-readme-streak-stats.herokuapp.com?user=FredoBangin&theme=dark&hide_border=true&fire=6A0DAD&ring=6A0DAD&currStreakLabel=6A0DAD&sideLabels=6A0DAD&background=0D1117&v=1"
   />
-</p>
-
-<p align="center">
   <img
     alt="Top Languages"
+    height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredoBangin&layout=compact&hide_border=true&theme=dark&title_color=6A0DAD&text_color=FFFFFF&bg_color=0D1117&cache_seconds=1800&v=1"
   />
 </p>
