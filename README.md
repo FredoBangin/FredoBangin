@@ -57,7 +57,3 @@
 - Email: [revlmao1234@protonmail.com](mailto:revlmao1234@protonmail.com)  
 - Instagram: [@fredoswrldd](https://instagram.com/fredoswrldd)  
 - Bio/links: [fakecrime.bio/revxnge](https://fakecrime.bio/revxnge)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300" />
-</div>
