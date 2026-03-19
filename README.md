@@ -1,27 +1,31 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="200" />
+</div>
+
+<div align="center">
 
 # Yo, I'm Fredo  
 **Software engineering • Student**  
 
 <a href="https://instagram.com/fredoswrldd">
-  <img alt="Instagram" src="https://img.shields.io/badge/-fredoswrldd-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-fredoswrldd-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://fakecrime.bio/revxnge">
-  <img alt="Link in bio" src="https://img.shields.io/badge/-fakecrime.bio%2Frevxnge-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Link in bio" src="https://img.shields.io/badge/Bio-fakecrime.bio%2Frevxnge-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="mailto:revlmao1234@protonmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-revlmao1234%40protonmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white">
+  <img alt="Email" src="https://img.shields.io/badge/Email-revlmao1234%40protonmail.com-6A0DAD?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
 
 <br/>
 
 <a href="https://github.com/FredoBangin?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/FredoBangin?label=Follow&style=for-the-badge&cacheSeconds=300&color=6A0DAD&v=1">
+  <img alt="Followers" src="https://img.shields.io/github/followers/FredoBangin?label=Follow&style=for-the-badge&cacheSeconds=300&color=6A0DAD&logo=github">
 </a>
 <a href="https://github.com/FredoBangin?tab=repositories&sort=stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/FredoBangin?affiliations=OWNER&style=for-the-badge&cacheSeconds=300&color=6A0DAD&v=1">
+  <img alt="Stars" src="https://img.shields.io/github/stars/FredoBangin?affiliations=OWNER&style=for-the-badge&cacheSeconds=300&color=6A0DAD&logo=github">
 </a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FredoBangin&label=Profile%20views&color=6A0DAD&style=for-the-badge&v=1"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FredoBangin&label=Profile%20views&color=6A0DAD&style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -53,3 +57,7 @@
 - Email: [revlmao1234@protonmail.com](mailto:revlmao1234@protonmail.com)  
 - Instagram: [@fredoswrldd](https://instagram.com/fredoswrldd)  
 - Bio/links: [fakecrime.bio/revxnge](https://fakecrime.bio/revxnge)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300" />
+</div>
