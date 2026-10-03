@@ -7,8 +7,8 @@
 <a href="https://instagram.com/fredoswrldd">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-fredoswrldd-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="[https://fakecrime.bio/revxnge](https://fredoo.dev/)">
-  <img alt="Link in bio" src="https://img.shields.io/badge/Bio-fakecrime.bio%2Frevxnge-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://fredoo.dev">
+  <img alt="Link in bio" src="https://fredoo.dev/">
 </a>
 <a href="mailto:revlmao1234@protonmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-revlmao1234%40protonmail.com-6A0DAD?style=for-the-badge&logo=protonmail&logoColor=white">
